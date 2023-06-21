@@ -7,7 +7,7 @@
 from detect import main, parse_opt
 import os
 root_folder_path = 'C:/Users/TuanShu/repos/yolov5/'
-source_file_path_rel = 'l_light_04_missing_hole_01_5_600.jpg'
+source_file_path_rel = 'ts_private/images'
 weight_path_rel = 'ts_public/best.pt'
 
 
